@@ -1,19 +1,9 @@
-[![](https://i.imgur.com/E8Kj69Y.png)](https://kernc.github.io/backtesting.py/)
+[![](https://i.imgur.com/E8Kj69Y.png)]
 
 Backtesting.py
 ==============
-[![Build Status](https://img.shields.io/github/actions/workflow/status/kernc/backtesting.py/ci.yml?branch=master&style=for-the-badge)](https://github.com/kernc/backtesting.py/actions)
-[![Code Coverage](https://img.shields.io/codecov/c/gh/kernc/backtesting.py.svg?style=for-the-badge)](https://codecov.io/gh/kernc/backtesting.py)
-[![Backtesting on PyPI](https://img.shields.io/pypi/v/backtesting.svg?color=blue&style=for-the-badge)](https://pypi.org/project/backtesting)
-[![PyPI downloads](https://img.shields.io/pypi/dd/backtesting.svg?color=skyblue&style=for-the-badge)](https://pypi.org/project/backtesting)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/kernc?color=pink&style=for-the-badge)](https://github.com/sponsors/kernc)
 
 Backtest trading strategies with Python.
-
-[**Project website**](https://kernc.github.io/backtesting.py) + [Documentation]
-
-[Documentation]: https://kernc.github.io/backtesting.py/doc/backtesting/
-
 
 Installation
 ------------
