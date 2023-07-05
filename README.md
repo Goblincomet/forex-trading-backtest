@@ -1,4 +1,4 @@
-[![](https://i.imgur.com/E8Kj69Y.png)]
+![](https://i.imgur.com/E8Kj69Y.png)
 
 Backtesting.py
 ==============
